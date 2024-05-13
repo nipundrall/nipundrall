@@ -1,5 +1,5 @@
 👋 Hi, I’m Nipun Drall
-I'm currently learning to use linux and doing some scripting.
+and currently learning to use linux and doing some scripting.
 - 💞️ I’m currently not looking to collaborate.
 - 📫 You can reach me at ndsdrall9@gmail.com
 
