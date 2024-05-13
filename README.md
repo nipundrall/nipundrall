@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @nipundrall
-- 👀 I’m interested in using linux
-- 🌱 I’m currently learning to use Arch
+👋 Hi, I’m Nipun Drall
+I'm currently learning to use linux and doing some scripting.
 - 💞️ I’m currently not looking to collaborate.
-- 📫 You can reach me at ndsdrall9@gmail.com 
-- 😄 Pronouns: i'm a he or him.
+- 📫 You can reach me at ndsdrall9@gmail.com
+
+  
 - ⚡ Fun fact: You can just Google me. Nipun Drall
 
 <!---
